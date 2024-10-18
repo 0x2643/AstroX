@@ -1,0 +1,27 @@
+[package]
+name = "astrox"
+version = "0.0.1"
+edition = "2021"
+authors = ["x developers"]
+repository = "https://github.com/spectre-project/rusty-spectrex"
+license = "ISC"
+description = "AstroX"
+readme = "README.md"
+keywords = ["hash", "algorithm", "library", "astrox"]
+categories = ["algorithms", "cryptography"]
+
+[dependencies]
+fnv = "1.0.7"
+rc4 = "0.1.0"
+chacha20 = { version = "0.9.1" }
+siphasher = "1.0.1"
+xxhash-rust = { version = "0.8.10", features = ["xxh3"] }
+blake3 = { version = "1.5.1" }
+
+[dev-dependencies]
+criterion = "0.5.1"
+rand = "0.8.5"
+
+[[bench]]
+name = "astrox"
+harness = false
