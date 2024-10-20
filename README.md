@@ -1,6 +1,6 @@
 # AstroX
 
-[![GitHub license](https://img.shields.io/github/license/0x2643/AstroX)](https://github.com/0x2643/AstroX/blob/Main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/0x2643/AstroX)](https://github.com/0x2643/AstroX/blob/main/LICENSE)
 
 ## Overview
 
