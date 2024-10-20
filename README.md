@@ -1,6 +1,6 @@
 # AstroX
 
-[![GitHub license](https://img.shields.io/github/license/spectre-project/rusty-spectrex.svg)](https://github.com/0x2643/AstroX/blob/Main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/0x2643/AstroX)](https://github.com/0x2643/AstroX/blob/Main/LICENSE)
 
 ## Overview
 
